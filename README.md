@@ -74,7 +74,7 @@ A **special focus of Synapse is the Medical & Mental Wellness section**, ensurin
 
 ### Step 1: Clone the Repository 
 
-   git clone https://github.com/ShlokDivyam1109/Synapse.git
+   git clone https://github.com/adarsh-7-satyam/synapse-campus.git
 
 ---
 
